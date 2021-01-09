@@ -1,7 +1,5 @@
 # Basis Cash
 
-![Background Image](./assets/bg.jpeg)
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/basiscash?label=Follow)](https://twitter.com/basiscash)
 [![License](https://img.shields.io/github/license/Basis-cash/basiscashprotocol)](https://github.com/Basis-Cash/basiscash-protocol/blob/master/LICENSE)
 [![Coverage Status](https://coveralls.io/repos/github/Basis-Cash/basiscash-protocol/badge.svg?branch=master)](https://coveralls.io/github/Basis-Cash/basiscash-protocol?branch=master)
